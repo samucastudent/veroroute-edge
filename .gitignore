@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.dev.vars
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
+.wrangler/
+dist2/
+deploy-personal.sh
